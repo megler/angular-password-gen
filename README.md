@@ -1,6 +1,5 @@
 # Pw
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+A basic Angular app that generates random passwords. Focused on data binding and manipulation. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
 
